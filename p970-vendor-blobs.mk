@@ -120,5 +120,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p970/proprietary/lib/libOMX.TI.720P.Encoder.so:system/lib/libOMX.TI.720P.Encoder.so \
     vendor/lge/p970/proprietary/lib/libOMX.TI.720P.Decoder.so:system/lib/libOMX.TI.720P.Decoder.so \
     vendor/lge/p970/proprietary/lib/libOMX.ITTIAM.AAC.encode.so:system/lib/libOMX.ITTIAM.AAC.encode.so \
-    vendor/lge/p970/proprietary/lib/libOMX.ITTIAM.AAC.decode.so:system/lib/libOMX.ITTIAM.AAC.decode.so
-    vendor/lge/p970/proprietary/etc/powervr.ini:/system/etc/powervr.ini
+    vendor/lge/p970/proprietary/lib/libOMX.ITTIAM.AAC.decode.so:system/lib/libOMX.ITTIAM.AAC.decode.so \
+    vendor/lge/p970/proprietary/bin/gfx_check:system/bin/gfx_check \
+    vendor/lge/p970/proprietary/etc/powervr.ini:system/etc/powervr.ini
