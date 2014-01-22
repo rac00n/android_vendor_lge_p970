@@ -17,7 +17,9 @@
 PRODUCT_COPY_FILES += \
     vendor/lge/p970/proprietary/etc/firmware/fw_bcm4329.bin:system/etc/firmware/fw_bcm4329.bin \
     vendor/lge/p970/proprietary/etc/firmware/fw_bcm4329_ap.bin:system/etc/firmware/fw_bcm4329_ap.bin \
-    vendor/lge/p970/proprietary/etc/firmware/BCM43291A0_003.001.013.0066.xxxx_B-Project.hcd:system/etc/firmware/BCM43291A0_003.001.013.0066.xxxx_B-Project.hcd \
+    vendor/lge/p970/proprietary/etc/firmware/fw_bcm4329_p2p.bin:system/etc/firmware/fw_bcm4329_p2p.bin \
+    vendor/lge/p970/proprietary/etc/firmware/fw_bcm4329_mfg.bin:system/etc/firmware/fw_bcm4329_mfg.bin \
+    vendor/lge/p970/proprietary/etc/firmware/BCM43291A0_003.001.013.0141.0142:system/etc/firmware/BCM43291A0_003.001.013.0141.0142.hcd \
     vendor/lge/p970/proprietary/etc/omapcam/fw3a.conf:system/etc/omapcam/fw3a.conf \
     vendor/lge/p970/proprietary/etc/omapcam/cid43_imx072_awb_tuning.bin:system/etc/omapcam/cid43_imx072_awb_tuning.bin \
     vendor/lge/p970/proprietary/etc/omapcam/imx072_dtp.dat:system/etc/omapcam/imx072_dtp.dat \
